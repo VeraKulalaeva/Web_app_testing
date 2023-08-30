@@ -10,3 +10,4 @@
 Далее:
 
 5) Составить <li5> <a href="https://docs.google.com/spreadsheets/d/1PLmg3qZBg4gCso3l8jHil3kFz1JXBCM5LEn8mPMm9XY/edit?usp=sharing">чек-лист</a> на тестирование корзины и модуля оплаты (метод Credit card)</li5>
+6) Оформить найденные <li4> <a href="https://disk.yandex.ru/i/OvkDu6IQ6oHySQ">баги</a> в системе YouTrack</li4>
